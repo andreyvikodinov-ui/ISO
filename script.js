@@ -1,7 +1,7 @@
 // Конфигурация - замените на свои данные
 const CONFIG = {
-    githubUser: 'ваш_логин_github',
-    repoName: 'ваш_репозиторий',
+    githubUser: 'andreyvikodinov-ui',
+    repoName: 'ISO',
     folderPath: 'OS', // Папка с ISO файлами
     branch: 'main' // Ветка репозитория
 };
